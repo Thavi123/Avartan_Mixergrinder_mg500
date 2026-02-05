@@ -1,0 +1,1 @@
+# Avartan_Mixergrinder_mg500
