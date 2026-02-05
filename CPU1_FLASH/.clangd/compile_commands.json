@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/AATPL0045/workspace_ccstheia/MG/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/AATPL0045/workspace_ccstheia/MG\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"C:/Users/AATPL0045/workspace_ccstheia/MG/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/AATPL0045/workspace_ccstheia/MG/CPU1_FLASH/syscfg\" -xc",
+      "file"      : "C:/Users/AATPL0045/workspace_ccstheia/MG/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/AATPL0045/workspace_ccstheia/MG/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/AATPL0045/workspace_ccstheia/MG\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"C:/Users/AATPL0045/workspace_ccstheia/MG/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/AATPL0045/workspace_ccstheia/MG/CPU1_FLASH/syscfg\"",
+      "file"      : "C:/Users/AATPL0045/workspace_ccstheia/MG/device/f280013x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/AATPL0045/workspace_ccstheia/MG/CPU1_FLASH",
+      "command"   : "clang++ -I\"C:/Users/AATPL0045/workspace_ccstheia/MG\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"C:/Users/AATPL0045/workspace_ccstheia/MG/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -D_FLASH -I\"C:/Users/AATPL0045/workspace_ccstheia/MG/CPU1_FLASH/syscfg\" -xc",
+      "file"      : "C:/Users/AATPL0045/workspace_ccstheia/MG/empty_driverlib_main.c"
+   }
+]

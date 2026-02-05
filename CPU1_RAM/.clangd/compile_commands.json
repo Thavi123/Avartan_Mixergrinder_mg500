@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "D:/git_code/Avartan_Mixergrinder_mg500/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/Avartan_Mixergrinder_mg500\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/Avartan_Mixergrinder_mg500/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/Avartan_Mixergrinder_mg500/CPU1_RAM/syscfg\" -xc",
+      "file"      : "D:/git_code/Avartan_Mixergrinder_mg500/device/device.c"
+   },
+   {
+      "directory" : "D:/git_code/Avartan_Mixergrinder_mg500/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/Avartan_Mixergrinder_mg500\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/Avartan_Mixergrinder_mg500/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/Avartan_Mixergrinder_mg500/CPU1_RAM/syscfg\"",
+      "file"      : "D:/git_code/Avartan_Mixergrinder_mg500/device/f280013x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/git_code/Avartan_Mixergrinder_mg500/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/git_code/Avartan_Mixergrinder_mg500\" -I\"C:/ti/C2000Ware_6_00_01_00\" -I\"D:/git_code/Avartan_Mixergrinder_mg500/device\" -I\"C:/ti/C2000Ware_6_00_01_00/driverlib/f280013x/driverlib/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -DDEBUG -DRAM -I\"D:/git_code/Avartan_Mixergrinder_mg500/CPU1_RAM/syscfg\" -xc",
+      "file"      : "D:/git_code/Avartan_Mixergrinder_mg500/empty_driverlib_main.c"
+   }
+]

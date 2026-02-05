@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "file:///c%3A/Users/AATPL0045/workspace_ccstheia"
+    },
+    {
+      "path": "file:///d%3A/git_code"
+    }
+  ],
+  "settings": {
+    "CCS.debug.variable.showAddress": false
+  }
+}
